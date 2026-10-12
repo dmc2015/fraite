@@ -8,8 +8,11 @@ from __future__ import annotations
 
 import os
 
+from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+
+load_dotenv(override=True)
 
 from agent.graph import build_graph
 from agent.schemas import AgentOutput, EmailInput
