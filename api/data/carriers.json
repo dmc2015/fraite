@@ -1,0 +1,38 @@
+{
+  "823456": {
+    "name": "Midwest Express Freight LLC",
+    "mc_number": "823456",
+    "dot_number": "2341890",
+    "status": "active",
+    "hq_city": "Chicago",
+    "hq_state": "IL",
+    "equipment_types": ["53' Dry Van", "48' Dry Van", "Reefer"]
+  },
+  "614728": {
+    "name": "Lonestar Freight Services Inc",
+    "mc_number": "614728",
+    "dot_number": "1892334",
+    "status": "active",
+    "hq_city": "Dallas",
+    "hq_state": "TX",
+    "equipment_types": ["Flatbed", "Step Deck"]
+  },
+  "730910": {
+    "name": "Great Lakes Logistics Co",
+    "mc_number": "730910",
+    "dot_number": "2104557",
+    "status": "active",
+    "hq_city": "Detroit",
+    "hq_state": "MI",
+    "equipment_types": ["Reefer", "53' Dry Van"]
+  },
+  "492013": {
+    "name": "Pacific Northwest Carriers",
+    "mc_number": "492013",
+    "dot_number": "1557812",
+    "status": "inactive",
+    "hq_city": "Seattle",
+    "hq_state": "WA",
+    "equipment_types": ["53' Dry Van"]
+  }
+}
